@@ -1,4 +1,5 @@
 package test
+// test
 
 object Hello {
   def main(args: Array[String]) {
